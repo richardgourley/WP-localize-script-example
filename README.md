@@ -1,8 +1,7 @@
 # WP LOCALIZE SCRIPT 
 ## Accessing a PHP mult-dimensional array within a Javascript file in Wordpress
 
-The aim of this is to give an example of how to use the wp_localize_script
-when you have an array of database query results from your Wordpress
+The aim of this is to give an example of how to use the wp_localize_script Wordpress function when you have an array of database query results from your Wordpress
 database that you wish to access in a Javascript file.
 
 In the example, we pass in a PHP multi-dimensional array of edited results
