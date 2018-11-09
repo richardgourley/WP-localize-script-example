@@ -13,4 +13,3 @@ TOPICS COVERED
 * Looping a JS object with a FOR..IN loop
 * Creating a new multi-dimensional array in JS from an array of JS objects.
 
-Happy coding
