@@ -1,5 +1,5 @@
 /*
-HERE IS WHAT VAROUT WILL LOOK LIKE:
+HERE IS WHAT VAROUT (LOCALIZED PHP ARRAY OF OBJECTS) WILL LOOK LIKE:
 AN ARRAY OF OBJECTS FROM OUR PHP MULTI DIMENSIONAL ARRAY
 0: Object { title: "Roofing", our_promise: "We work with the best roofing companies in the industry." }
 1: Object { title: "Tiling", our_promise: "We work with the highest-rated tiling companies in the industry." }
