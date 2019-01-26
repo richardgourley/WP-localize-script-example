@@ -2,7 +2,7 @@
 
 /**
  * In this file we enqueue our javascript file.
- * We add a PHP array containing possibe database search results to be..
+ * We add a PHP array containing example database search results to be..
  * ..accessible as an object/ objects in our javascript file
  */
 
@@ -48,17 +48,17 @@ function wpdb_example_search_results()
         [
             'title' => 'Roofing',
             'our_promise' => 'We work with the best roofing companies in the industry.',
-            'prices_from' => '27.00 per hour'
+            'prices_from' => '$27.00 per hour'
         ],
         [
             'title' => 'Tiling',
             'our_promise' => 'We work with the highest-rated tiling companies in the industry.',
-            'prices_from' => '24.00 per hour'
+            'prices_from' => '$24.00 per hour'
         ],
         [
             'title' => 'Painting',
             'our_promise' => 'The professionals we work with use the highest-quality paint in the industry.',
-            'prices_from' => '23.00 per hour'
+            'prices_from' => '$23.00 per hour'
         ],
     ];
 }
